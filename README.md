@@ -1,0 +1,2 @@
+# niedziela
+zajecia z testowania 
